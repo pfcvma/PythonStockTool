@@ -1,4 +1,4 @@
-# 21-1 SWIC Report(Team C, 1st Prize): Portfolio Optimization Tool
+# 21-1 SWIC Report(Team C, 1st Prize): ESG Active Fund
 **팀장**: 기획 총괄, 보고서 전반 작성
 <br>
 > Code: 본 Repository 참고, Developed by Dongjun Shin
