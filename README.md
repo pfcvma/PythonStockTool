@@ -1,5 +1,13 @@
-# Python Stock Tool
+# 21-1 SWIC Report(Team C, 1st Prize): Portfolio Optimization Tool
+**팀장**: 기획 총괄, 보고서 전반 작성
+<br>
+> Code: 본 Repository 참고, Developed by Dongjun Shin
+>
+> Report: [Active Fund 2021-1.pdf](https://drive.google.com/file/d/10oYCZ6YMAij1Ynd1_f9KZt_kAafKpdGs/view?usp=sharing)
 
+<br>
+
+# Python Stock Tool
 ------
 
 Start : 2021.02.11~
@@ -8,7 +16,7 @@ Start : 2021.02.11~
 
 ## Project Plan & Purpose
 
-금융 공학 쪽으로 공부하면서 사용한 코드들을 항목&라이브러리 별로 정리해보고자 한다.
+금융 공학 쪽으로 공부하면서 사용한 코드들을 항목&라이브러리 별로 정리
 
 ------
 
